@@ -1,6 +1,6 @@
 import crypto from "crypto";
 import jwt from "jsonwebtoken";
-import { IUser } from "@/app/models/user";
+import { IUser } from "@/app/models/User";
 
 /**
  * Token Utilities
